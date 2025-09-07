@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![alt text](<Screenshot 2025-09-07 at 3.49.03 PM.png>)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
