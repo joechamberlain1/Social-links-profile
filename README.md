@@ -36,6 +36,8 @@ Users should be able to:
 
 ## My process
 
+See what parts are grouped together and from outwards to inwards. Start with the styles that affect everything and than work my way towards the more specific things. 
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -44,14 +46,12 @@ Users should be able to:
 
 ### What I learned
 
+Using the dev tools to de bug css is very helpful
 
 ### Continued development
 
-
-### Useful resources
-
+Will get better at class names
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [joechamberlain1](https://www.frontendmentor.io/profile/joechamberlain1)
